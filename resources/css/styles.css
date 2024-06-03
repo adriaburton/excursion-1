@@ -1,6 +1,11 @@
 body {
   background-color: black;
-  color: aliceblue;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header--main {
+  color: aliceblue;
+  font-size: 50px;
+  font-weight: normal;
 }
